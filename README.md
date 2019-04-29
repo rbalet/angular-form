@@ -5,6 +5,8 @@ Contact input and form logic ready for the copy past
 ## Google autocomplition list
 |Name|type|autocomplete|
 |----|----|----|
+|first name||fname|
+|last name||lname|
 |name||name|
 |email|email|email|
 |phone|tel|tel|
